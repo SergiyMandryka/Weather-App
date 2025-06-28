@@ -5,37 +5,40 @@
     },
     "weather": [
         {
-            "id": 804,
-            "main": "Clouds",
-            "description": "хмарно",
-            "icon": "04d"
+            "id": 500,
+            "main": "Rain",
+            "description": "легкий дощ",
+            "icon": "10d"
         }
     ],
     "base": "stations",
     "main": {
         "temp": 17.04,
-        "feels_like": 16.39,
+        "feels_like": 17.12,
         "temp_min": 17.04,
         "temp_max": 17.04,
-        "pressure": 1013,
-        "humidity": 61,
-        "sea_level": 1013,
-        "grnd_level": 1002
+        "pressure": 1011,
+        "humidity": 89,
+        "sea_level": 1011,
+        "grnd_level": 1000
     },
     "visibility": 10000,
     "wind": {
-        "speed": 4.73,
-        "deg": 306,
-        "gust": 5.86
+        "speed": 1.61,
+        "deg": 163,
+        "gust": 3.16
+    },
+    "rain": {
+        "1h": 0.87
     },
     "clouds": {
-        "all": 88
+        "all": 100
     },
-    "dt": 1750497188,
+    "dt": 1750785386,
     "sys": {
         "country": "UA",
-        "sunrise": 1750469902,
-        "sunset": 1750527917
+        "sunrise": 1750729149,
+        "sunset": 1750787142
     },
     "timezone": 10800,
     "id": 709930,
